@@ -2,4 +2,4 @@
 
 <img src="img/pricing-cards.png">
 
-Pricing Cards mini-project from Tailwind course.
+Pricing Cards mini-project fromT ailwind course.
